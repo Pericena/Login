@@ -1,4 +1,4 @@
-# Login en PHP y MySQL Versión 3
+# Login en PHP y MySQL
 
 En este proyecto utilizamos varios componentes, para la parte visual se usa Bootstrap, para las alertas utilizamos SweetAlert y para los iconos utilizamos Font Awesome, recuerda que tanto Bootstrap como SweetAlert requieren de jquery para funcionar (el proyecto usa la version 3.1.1 de jquery).[![](https://3.bp.blogspot.com/-ZOhb8Hkzzzs/XHjDtuP0BcI/AAAAAAAAN1M/0lFpbtg7CLU3WzrWOlius9z9OkrLkSQ-ACLcBGAs/s1600/Login.png)](https://www.lpericena.tk/2018/06/login-y-registro-con-php-y-base-de.html)
 
